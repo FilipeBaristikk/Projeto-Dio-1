@@ -7,4 +7,8 @@
   - title, coloca o nome na aba do navegador
   - body define o conteúdo do corpo do site
 
-## Aula 2
+
+
+## Introdução a conceitos básico de CSS3
+
+- Seguir materiais do curso
